@@ -137,7 +137,7 @@ public class OpenTheLight extends javax.swing.JFrame {
     }//GEN-LAST:event_jToggleButton1ActionPerformed
     
     boolean listen=false;
-    boolean first=true;
+    
     int dots=0;
     boolean last;
     Timer myTimer;
